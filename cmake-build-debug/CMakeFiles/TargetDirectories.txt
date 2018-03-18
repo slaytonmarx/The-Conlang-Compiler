@@ -1,0 +1,3 @@
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/cmake-build-debug/CMakeFiles/TheConlangCompiler.dir
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir

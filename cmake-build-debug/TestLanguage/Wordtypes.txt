@@ -1,0 +1,16 @@
+Compound_Noun-Nonterminal
+Compound_Verb_Object-Nonterminal
+Compound_Verb_Preposition-Nonterminal
+Sentance-Nonterminal
+Noun-Preterminal
+Verb_Object-Preterminal
+Conjunction-Preterminal
+Pronoun-Preterminal
+Verb_Preposition-Preterminal
+Stem-Preterminal
+Adjective-Preterminal
+Determiner-Preterminal
+Preposition-Preterminal
+Prefix-Preterminal
+Suffix-Preterminal
+New_Word-Nonterminal

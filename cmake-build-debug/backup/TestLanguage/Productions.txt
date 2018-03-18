@@ -1,0 +1,5 @@
+compound_noun-determiner,noun|determiner,adjective,noun
+compound_verb_object-verb_object,compound_noun
+compound_verb_preposition-verb_preposition,preposition,compound_noun
+sentance-compound_noun,compound_verb_object|compound_noun,compound_verb_preposition
+new_word-noun,noun|prefix,stem|prefix,noun|verb,noun|

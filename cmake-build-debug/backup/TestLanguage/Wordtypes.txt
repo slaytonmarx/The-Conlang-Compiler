@@ -1,0 +1,13 @@
+noun-Terminal
+verb_object-Terminal
+verb_preposition-Terminal
+adjective-Terminal
+determiner-Terminal
+preposition-Terminal
+compound_noun-Nonterminal
+compound_verb_object-Nonterminal
+compound_verb_preposition-Nonterminal
+sentance-Nonterminal
+prefix-Terminal
+suffix-Terminal
+stem-Terminal

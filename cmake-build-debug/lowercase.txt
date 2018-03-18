@@ -1,0 +1,16 @@
+Sentance becomes a vector of words
+
+Words are used to create a vector of preterminal symbols
+
+Preterminal symbols are used to create a vector of nonterminal symbols
+
+nonterminal symbols are evaluated with symbols in mind. Looks for equivalent preterminal production in translation nonterminal symbol (has the same symbols in it)
+
+Translation
+
+
+uses chomski normal form
+
+make each production map to a pair of strings, pair of strings and pair of symbols.
+
+

@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Codex.cpp
+Codex.h
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Codex.h
+
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Codex.h
+Grammar.h
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Grammar.h
+
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Grammar.cpp
+random
+-
+Grammar.h
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Grammar.h
+
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Grammar.h
+random
+-
+time.h
+-
+Scrivener.h
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Scrivener.h
+
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Menu.cpp
+Menu.h
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Menu.h
+
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Menu.h
+ctime
+-
+stack
+-
+Codex.h
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Codex.h
+
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Scrivener.cpp
+Scrivener.h
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Scrivener.h
+
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Scrivener.h
+vector
+-
+iostream
+-
+fstream
+-
+direct.h
+-
+map
+-
+
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/headers.h
+
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/main.cpp
+iostream
+-
+Menu.h
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/Menu.h
+headers.h
+C:/Users/Slayton/OneDrive/Projects/Programming/Personal Portfolio/Conlang Compiler/TheConlangCompiler/headers.h
+

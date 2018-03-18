@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2017.2.1\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\TheConlangCompiler.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\TheConlangCompiler.dir/objects.a @CMakeFiles\TheConlangCompiler.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\TheConlangCompiler.dir/objects.a -Wl,--no-whole-archive  -o TheConlangCompiler.exe -Wl,--out-implib,libTheConlangCompiler.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TheConlangCompiler.dir\linklibs.rsp

@@ -1,0 +1,6 @@
+Compound_Noun-Determiner,Noun_Adjective|Determiner,Noun
+Compound_Verb-Verb_Preposition,Preposition_Noun|Verb_Object,Compound_Noun
+Preposition_Noun-Preposition,Compound_Noun
+Noun_Adjective-Adjective,Noun
+Sentence-Compound_Noun,Compound_Verb|Conjunction_Sentence
+Conjunction_Sentence-Compound_Noun,Conjunction,Compound_Noun,Compound_Verb

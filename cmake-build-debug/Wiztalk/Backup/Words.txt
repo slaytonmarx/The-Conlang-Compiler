@@ -1,0 +1,15 @@
+fryn-Noun-cat
+grath-Noun-person
+bryn-Noun-tree
+gwent-Noun-sky
+brig-Noun-car
+gwyth-Verb_Preposition-sings
+dir-Verb_Preposition-runs
+geld-Verb_Object-hears
+thlam-Preposition-at
+glath-Preposition-to
+gweo-Determiner-the
+foth-Determiner-a
+geldir-Adjective-kind
+ynir-Adjective-small
+twyth-Adjective-weird
